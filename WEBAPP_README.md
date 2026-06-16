@@ -45,27 +45,31 @@ python3 -m http.server 8123
 
 ## Deploy to GitHub Pages
 
-1. Create a repo and push this project:
+Target URL: **https://pkarakala.github.io/stocks/** → GitHub user `pkarakala`,
+repo named `stocks`, served from `/docs`.
+
+1. Create a **new public repo named `stocks`** under your account at
+   https://github.com/new (leave it empty — no README/license).
+
+2. From this project folder, connect the remote and push (the repo is already
+   committed locally on `main`):
 
    ```bash
-   git init
-   git add .
-   git commit -m "Add OpsScreener calculator web app"
-   git branch -M main
-   git remote add origin https://github.com/<you>/<repo>.git
+   git remote add origin https://github.com/pkarakala/stocks.git
    git push -u origin main
    ```
 
-2. In the repo on GitHub: **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **Deploy from a branch**.
-4. Set branch to **main** and folder to **/docs**, then **Save**.
-5. Wait ~1 minute. Your site is live at:
+3. In the repo on GitHub: **Settings → Pages**.
+4. Under **Build and deployment → Source**, choose **Deploy from a branch**.
+5. Set branch to **main** and folder to **/docs**, then **Save**.
+6. Wait ~1 minute, then open:
 
    ```
-   https://<you>.github.io/<repo>/
+   https://pkarakala.github.io/stocks/
    ```
 
-That's it — the `/docs` folder is self-contained, so no build action is needed.
+The `/docs` folder is self-contained and uses only relative paths, so it works
+under the `/stocks/` subpath with no build step and no config changes.
 
 ## Updating the watchlist
 
