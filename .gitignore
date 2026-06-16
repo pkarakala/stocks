@@ -10,5 +10,8 @@ results/run.log
 .DS_Store
 *.swp
 
+# local scan artifacts
+fetch_run.log
+
 # Node (not used by the static app, but just in case)
 node_modules/
