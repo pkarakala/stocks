@@ -211,6 +211,8 @@ footer {
 .scan-meta .sep { margin: 0 8px; opacity: .5; }
 .scan-meta .warn { color: var(--amber); }
 .scan-meta .asof { font-size: 12px; }
+.scan-meta .asof.fresh { color: var(--green); }
+.scan-meta .asof.stale { color: var(--amber); font-weight: 600; }
 
 .banner-warn {
   background: rgba(210,153,34,.12);

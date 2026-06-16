@@ -28,6 +28,25 @@ function n(v, d, suffix) {
   return fmt(v, d) + (suffix || "");
 }
 
+// dataAge — turn a generated_at ISO timestamp into a human label + staleness.
+// Stale = older than 4 days (covers a normal Fri→Mon weekend gap with slack).
+function dataAge(generatedAt) {
+  if (!generatedAt) return { label: "no data", days: 0, stale: false, cls: "" };
+  const then = new Date(generatedAt);
+  const ms = Date.now() - then.getTime();
+  const days = Math.floor(ms / 86400000);
+  const hours = Math.floor(ms / 3600000);
+
+  let label;
+  if (hours < 1) label = "updated just now";
+  else if (hours < 24) label = `updated ${hours}h ago`;
+  else if (days === 1) label = "updated yesterday";
+  else label = `updated ${days} days ago`;
+
+  const stale = days >= 4;
+  return { label, days, stale, cls: stale ? "stale" : "fresh" };
+}
+
 // ---------- Daily Scan view ----------
 
 function ScanRowTable({ rows }) {
@@ -122,6 +141,9 @@ function DailyScan() {
     return (b.iv_adj_score || 0) - (a.iv_adj_score || 0);
   });
 
+  // Data freshness: how old is this scan, and is it stale?
+  const age = dataAge(data.generated_at);
+
   return (
     <div>
       <div className="scan-meta">
@@ -134,8 +156,16 @@ function DailyScan() {
           {data.failed ? <span className="sep">·</span> : null}
           {data.failed ? <span className="warn">{data.failed} failed</span> : null}
         </div>
-        <div className="asof">as of {data.as_of_date}</div>
+        <div className={"asof " + age.cls}>{age.label}</div>
       </div>
+
+      {age.stale ? (
+        <div className="banner-warn">
+          ⚠ This scan is {age.days} days old — the nightly job may have stalled.
+          Check the repo's Actions tab (scheduled runs auto-pause after 60 days
+          of no repo activity), or trigger "Refresh stock data" manually.
+        </div>
+      ) : null}
 
       {data.partial_warning ? (
         <div className="banner-warn">
