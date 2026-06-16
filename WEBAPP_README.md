@@ -81,6 +81,17 @@ python3 generate_watchlist_js.py
 
 Commit and push; Pages redeploys automatically.
 
+### Auto-sync (GitHub Actions)
+
+`.github/workflows/sync-watchlist.yml` runs the generator automatically on every
+push to `main` that touches `watchlist.csv` (or the generator). If the resulting
+`docs/watchlist.js` differs, it commits the regenerated file back to the repo —
+so you can just edit the CSV and push, and the web data stays in sync. You can
+also trigger it manually from the repo's **Actions** tab.
+
+Note: the workflow needs write access. In **Settings → Actions → General →
+Workflow permissions**, ensure **Read and write permissions** is selected.
+
 ## Tuning thresholds
 
 All thresholds live in one place: the `THRESHOLDS` object at the top of

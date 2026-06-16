@@ -1,5 +1,5 @@
 // Auto-generated from watchlist.csv - the 100-name AI universe.
-// To update: edit watchlist.csv and rerun the generator, or edit this array directly.
+// To update: edit watchlist.csv and rerun generate_watchlist_js.py.
 window.WATCHLIST = [
   {
     "ticker": "NVDA",
