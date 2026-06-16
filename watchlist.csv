@@ -1,0 +1,101 @@
+ticker,tier,theme,notes
+NVDA,safe,semiconductors,GPU datacenter dominance
+AVGO,safe,semiconductors,networking + custom AI silicon
+AMD,safe,semiconductors,MI-series datacenter GPU/CPU
+TSM,safe,semiconductors,leading-edge foundry for all AI chips
+MU,safe,semiconductors,HBM memory for AI accelerators
+AMAT,safe,semiconductors,wafer fab equipment
+LRCX,safe,semiconductors,etch/deposition equipment
+KLAC,safe,semiconductors,process control + inspection
+ASML,safe,semiconductors,EUV lithography monopoly
+QCOM,safe,semiconductors,on-device edge AI
+MRVL,safe,semiconductors,custom ASIC + optical interconnect
+ARM,safe,semiconductors,CPU IP for AI inference
+TXN,safe,semiconductors,analog + embedded
+ADI,safe,semiconductors,high-performance analog
+CDNS,safe,software,EDA chip-design software
+SNPS,safe,software,EDA chip-design software
+MSFT,safe,software,Azure + OpenAI exposure
+GOOGL,safe,software,Gemini + TPU + Cloud
+AMZN,safe,software,AWS AI infrastructure
+META,safe,software,LLaMA + AI ad targeting
+CRM,safe,software,Salesforce Agentforce AI
+NOW,safe,software,ServiceNow enterprise AI workflows
+ORCL,safe,software,OCI AI cloud + database
+PLTR,safe,software,AIP enterprise AI platform
+SNOW,safe,software,data cloud for AI workloads
+ADBE,safe,software,Firefly creative AI
+IBM,safe,software,watsonx enterprise AI
+INTU,safe,software,Intuit AI financial tooling
+ANET,safe,infrastructure,datacenter AI networking
+DELL,safe,infrastructure,AI server rack integration
+HPE,safe,infrastructure,supercomputing + AI systems
+CSCO,safe,infrastructure,AI datacenter networking
+VRT,safe,infrastructure,datacenter power + cooling
+APH,safe,infrastructure,high-speed connectors
+TEL,safe,infrastructure,connectivity components
+NTAP,safe,infrastructure,AI data storage
+CEG,safe,power,nuclear baseload for AI datacenters
+VST,safe,power,gas + nuclear AI power
+NRG,safe,power,merchant power for datacenter demand
+ETN,safe,power,electrical equipment for datacenters
+GEV,safe,power,GE Vernova grid + generation
+PWR,safe,power,grid + datacenter buildout
+INTC,safe,semiconductors,foundry comeback + AI PC
+TSLA,safe,software,autonomy + Dojo AI compute
+ACN,safe,software,Accenture AI consulting buildout
+QQQ,safe,infrastructure,broad megacap-tech benchmark hedge
+SMH,safe,semiconductors,semiconductor sector ETF benchmark
+NXPI,safe,semiconductors,automotive + edge AI
+MPWR,safe,semiconductors,power management for AI servers
+CRWD,safe,software,AI-driven endpoint security
+CRDO,risky,semiconductors,high-speed SerDes connectivity
+ONTO,risky,semiconductors,HBM + advanced packaging inspection
+ALAB,risky,semiconductors,Astera Labs AI connectivity
+AMBA,risky,semiconductors,edge AI vision processors
+LSCC,risky,semiconductors,low-power FPGA
+RMBS,risky,semiconductors,memory interface IP
+SITM,risky,semiconductors,precision timing for datacenters
+NVTS,risky,semiconductors,GaN power semis
+POWI,risky,semiconductors,high-voltage power conversion
+AEHR,risky,semiconductors,semiconductor test systems
+CRUS,risky,semiconductors,mixed-signal audio/edge
+SWKS,risky,semiconductors,RF + connectivity
+WOLF,risky,semiconductors,silicon carbide power
+INDI,risky,semiconductors,automotive edge AI
+AI,risky,software,C3.ai enterprise AI apps
+BBAI,risky,software,BigBear.ai decision intelligence
+SOUN,risky,software,SoundHound voice AI
+PATH,risky,software,UiPath agentic automation
+GTLB,risky,software,GitLab AI dev tooling
+S,risky,software,SentinelOne AI security
+NET,risky,software,Cloudflare edge + AI inference
+DDOG,risky,software,Datadog AI observability
+MDB,risky,software,MongoDB vector + AI data
+ESTC,risky,software,Elastic AI search
+TEM,risky,software,Tempus AI healthcare data
+RXRX,risky,software,Recursion AI drug discovery
+OKLO,risky,power,advanced nuclear SMR for AI
+SMR,risky,power,NuScale modular nuclear
+NNE,risky,power,Nano Nuclear microreactors
+TLN,risky,power,Talen nuclear for datacenters
+APLD,risky,power,Applied Digital AI datacenters
+IREN,risky,power,Iris Energy AI compute hosting
+CORZ,risky,power,Core Scientific AI hosting pivot
+WULF,risky,power,TeraWulf AI compute buildout
+CIFR,risky,power,Cipher Mining compute pivot
+NBIS,risky,infrastructure,Nebius AI cloud platform
+COHR,risky,infrastructure,Coherent optical transceivers
+LITE,risky,infrastructure,Lumentum optical components
+FN,risky,infrastructure,Fabrinet optical manufacturing
+AAOI,risky,infrastructure,Applied Optoelectronics
+MTSI,risky,infrastructure,MACOM RF + optical
+CIEN,risky,infrastructure,Ciena coherent optical networking
+PSTG,risky,infrastructure,Pure Storage AI flash
+SMCI,risky,infrastructure,Supermicro AI server systems
+AVAV,risky,defense,AeroVironment autonomous drones
+KTOS,risky,defense,Kratos autonomous defense systems
+POET,risky,infrastructure,POET optical interposer
+SERV,risky,software,Serve Robotics autonomy
+ASAN,risky,software,Asana AI work management
+NNOX,risky,software,Nanox AI medical imaging

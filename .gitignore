@@ -1,0 +1,14 @@
+# Python (for the screener tool, if/when you build it here)
+venv/
+__pycache__/
+*.pyc
+results/*.csv
+results/*.txt
+results/run.log
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Node (not used by the static app, but just in case)
+node_modules/

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpsScreener Calculator</title>
+    <meta
+      name="description"
+      content="Client-side IV-adjusted upside calculator for the AI names options screener."
+    />
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- React + ReactDOM (UMD) and Babel standalone: no build step needed. -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- App data + logic, then the React app (transpiled in-browser). -->
+    <script src="watchlist.js"></script>
+    <script src="screener.js"></script>
+    <script type="text/babel" data-presets="react,env" src="app.jsx"></script>
+  </body>
+</html>
