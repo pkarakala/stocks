@@ -1,0 +1,5 @@
+# Dependencies for the nightly data fetcher (fetch_data.py).
+# numpy pinned <2 to avoid the ABI conflict noted in the build prompt.
+yfinance>=0.2.40
+pandas>=2.0
+numpy<2

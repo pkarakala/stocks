@@ -1,0 +1,48 @@
+name: Refresh stock data
+
+# Nightly: after US market close, fetch + score all 100 names and commit
+# docs/data/latest.json so the site serves last night's data with top buys
+# flagged. 23:00 UTC on weekdays = ~6-7pm ET (after the 4pm close, DST-safe).
+# You can also run it on demand from the Actions tab (Run workflow).
+on:
+  schedule:
+    - cron: "0 23 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # to commit the refreshed data file
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch + score watchlist
+        run: python3 fetch_data.py
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- docs/data/latest.json; then
+            echo "No data changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/data/latest.json
+            git commit -m "data: refresh stock scan $(date -u +%Y-%m-%d)"
+            git push
+          fi

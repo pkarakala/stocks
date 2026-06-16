@@ -1,0 +1,14 @@
+{
+  "generated_at": null,
+  "as_of_date": null,
+  "scanned": 0,
+  "flagged": 0,
+  "deferred": 0,
+  "failed": 0,
+  "partial_warning": false,
+  "thresholds": {
+    "safe": { "min_score": 0.8, "min_upside_pct": 12, "min_analysts": 5, "min_cap_b": 10, "earnings_window_days": 14 },
+    "risky": { "min_score": 0.6, "min_upside_pct": 20, "min_analysts": 4, "min_cap_b": 2, "earnings_window_days": 14 }
+  },
+  "rows": []
+}
