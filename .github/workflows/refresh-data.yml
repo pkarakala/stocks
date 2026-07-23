@@ -1,23 +1,34 @@
-name: Refresh stock data
+name: Nightly pipeline + deploy console
 
-# Nightly: after US market close, fetch + score all 100 names and commit
-# docs/data/latest.json so the site serves last night's data with top buys
-# flagged. 23:00 UTC on weekdays = ~6-7pm ET (after the 4pm close, DST-safe).
-# You can also run it on demand from the Actions tab (Run workflow).
+# Every weeknight after US market close (23:00 UTC ≈ 6-7pm ET, DST-safe):
+#   1. Run the quant engine: signals, buys/sells, Monte Carlo, backtest
+#   2. Commit the refreshed data + updated positions state
+#   3. Build the React console and deploy it to GitHub Pages
+# Your team opens the GitHub Pages link each morning and sees fresh data.
+# Can also be triggered manually from the Actions tab (Run workflow).
+
 on:
   schedule:
     - cron: "0 23 * * 1-5"
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "console/**"
+      - "engine/**"
+      - "watchlist.csv"
 
 permissions:
-  contents: write # to commit the refreshed data file
+  contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: refresh-data
+  group: nightly-pipeline
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  pipeline-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,20 +40,44 @@ jobs:
           python-version: "3.11"
           cache: pip
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install engine dependencies
+        run: pip install -r engine/requirements.txt
 
-      - name: Fetch + score watchlist
-        run: python3 fetch_data.py
+      - name: Run daily pipeline
+        # Only run the data pipeline on schedule/manual runs — code pushes
+        # just redeploy the console with existing data.
+        if: github.event_name != 'push'
+        working-directory: engine
+        run: python pipeline.py
 
       - name: Commit refreshed data
+        if: github.event_name != 'push'
         run: |
-          if git diff --quiet -- docs/data/latest.json; then
-            echo "No data changes to commit."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/data/latest.json
-            git commit -m "data: refresh stock scan $(date -u +%Y-%m-%d)"
-            git push
-          fi
+          git config user.name "quant-pipeline[bot]"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: nightly refresh $(date -u +%F)"
+          git push
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: console/package-lock.json
+
+      - name: Build console
+        working-directory: console
+        run: |
+          npm ci
+          mkdir -p public/data
+          cp ../data/*.json public/data/ 2>/dev/null || true
+          npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: console/dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

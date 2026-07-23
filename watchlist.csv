@@ -1,101 +1,101 @@
 ticker,tier,theme,notes
-NVDA,safe,semiconductors,GPU datacenter dominance
-AVGO,safe,semiconductors,networking + custom AI silicon
-AMD,safe,semiconductors,MI-series datacenter GPU/CPU
-TSM,safe,semiconductors,leading-edge foundry for all AI chips
-MU,safe,semiconductors,HBM memory for AI accelerators
-AMAT,safe,semiconductors,wafer fab equipment
-LRCX,safe,semiconductors,etch/deposition equipment
-KLAC,safe,semiconductors,process control + inspection
-ASML,safe,semiconductors,EUV lithography monopoly
-QCOM,safe,semiconductors,on-device edge AI
-MRVL,safe,semiconductors,custom ASIC + optical interconnect
-ARM,safe,semiconductors,CPU IP for AI inference
-TXN,safe,semiconductors,analog + embedded
-ADI,safe,semiconductors,high-performance analog
-CDNS,safe,software,EDA chip-design software
-SNPS,safe,software,EDA chip-design software
-MSFT,safe,software,Azure + OpenAI exposure
-GOOGL,safe,software,Gemini + TPU + Cloud
-AMZN,safe,software,AWS AI infrastructure
-META,safe,software,LLaMA + AI ad targeting
-CRM,safe,software,Salesforce Agentforce AI
-NOW,safe,software,ServiceNow enterprise AI workflows
-ORCL,safe,software,OCI AI cloud + database
-PLTR,safe,software,AIP enterprise AI platform
-SNOW,safe,software,data cloud for AI workloads
-ADBE,safe,software,Firefly creative AI
-IBM,safe,software,watsonx enterprise AI
-INTU,safe,software,Intuit AI financial tooling
-ANET,safe,infrastructure,datacenter AI networking
-DELL,safe,infrastructure,AI server rack integration
-HPE,safe,infrastructure,supercomputing + AI systems
-CSCO,safe,infrastructure,AI datacenter networking
-VRT,safe,infrastructure,datacenter power + cooling
-APH,safe,infrastructure,high-speed connectors
-TEL,safe,infrastructure,connectivity components
-NTAP,safe,infrastructure,AI data storage
-CEG,safe,power,nuclear baseload for AI datacenters
-VST,safe,power,gas + nuclear AI power
-NRG,safe,power,merchant power for datacenter demand
-ETN,safe,power,electrical equipment for datacenters
-GEV,safe,power,GE Vernova grid + generation
-PWR,safe,power,grid + datacenter buildout
-INTC,safe,semiconductors,foundry comeback + AI PC
-TSLA,safe,software,autonomy + Dojo AI compute
-ACN,safe,software,Accenture AI consulting buildout
-QQQ,safe,infrastructure,broad megacap-tech benchmark hedge
-SMH,safe,semiconductors,semiconductor sector ETF benchmark
-NXPI,safe,semiconductors,automotive + edge AI
-MPWR,safe,semiconductors,power management for AI servers
-CRWD,safe,software,AI-driven endpoint security
-CRDO,risky,semiconductors,high-speed SerDes connectivity
-ONTO,risky,semiconductors,HBM + advanced packaging inspection
-ALAB,risky,semiconductors,Astera Labs AI connectivity
-AMBA,risky,semiconductors,edge AI vision processors
-LSCC,risky,semiconductors,low-power FPGA
-RMBS,risky,semiconductors,memory interface IP
-SITM,risky,semiconductors,precision timing for datacenters
-NVTS,risky,semiconductors,GaN power semis
-POWI,risky,semiconductors,high-voltage power conversion
-AEHR,risky,semiconductors,semiconductor test systems
-CRUS,risky,semiconductors,mixed-signal audio/edge
-SWKS,risky,semiconductors,RF + connectivity
-WOLF,risky,semiconductors,silicon carbide power
-INDI,risky,semiconductors,automotive edge AI
-AI,risky,software,C3.ai enterprise AI apps
-BBAI,risky,software,BigBear.ai decision intelligence
-SOUN,risky,software,SoundHound voice AI
-PATH,risky,software,UiPath agentic automation
-GTLB,risky,software,GitLab AI dev tooling
-S,risky,software,SentinelOne AI security
-NET,risky,software,Cloudflare edge + AI inference
-DDOG,risky,software,Datadog AI observability
-MDB,risky,software,MongoDB vector + AI data
-ESTC,risky,software,Elastic AI search
-TEM,risky,software,Tempus AI healthcare data
-RXRX,risky,software,Recursion AI drug discovery
-OKLO,risky,power,advanced nuclear SMR for AI
-SMR,risky,power,NuScale modular nuclear
-NNE,risky,power,Nano Nuclear microreactors
-TLN,risky,power,Talen nuclear for datacenters
-APLD,risky,power,Applied Digital AI datacenters
-IREN,risky,power,Iris Energy AI compute hosting
-CORZ,risky,power,Core Scientific AI hosting pivot
-WULF,risky,power,TeraWulf AI compute buildout
-CIFR,risky,power,Cipher Mining compute pivot
-NBIS,risky,infrastructure,Nebius AI cloud platform
-COHR,risky,infrastructure,Coherent optical transceivers
-LITE,risky,infrastructure,Lumentum optical components
-FN,risky,infrastructure,Fabrinet optical manufacturing
-AAOI,risky,infrastructure,Applied Optoelectronics
-MTSI,risky,infrastructure,MACOM RF + optical
-CIEN,risky,infrastructure,Ciena coherent optical networking
-PSTG,risky,infrastructure,Pure Storage AI flash
-SMCI,risky,infrastructure,Supermicro AI server systems
-AVAV,risky,defense,AeroVironment autonomous drones
-KTOS,risky,defense,Kratos autonomous defense systems
-POET,risky,infrastructure,POET optical interposer
-SERV,risky,software,Serve Robotics autonomy
-ASAN,risky,software,Asana AI work management
-NNOX,risky,software,Nanox AI medical imaging
+NVDA,core,ai-semis,#1 US options volume; penny spreads; weeklies+dailies
+AMD,core,ai-semis,top-10 options volume; penny/nickel spreads; weeklies
+AVGO,core,ai-semis,mega OI; AI networking/custom silicon; weeklies
+TSM,core,ai-semis,liquid ADR chain; foundry bellwether; weeklies
+MU,core,ai-semis,HBM/DRAM leader; very liquid; penny spreads; weeklies
+QCOM,core,ai-semis,liquid megacap semi; tight spreads; weeklies
+ARM,core,ai-semis,high-beta semi IP; nickel spreads; weeklies
+INTC,core,ai-semis,huge options volume; penny spreads; weeklies
+AAPL,core,software,top-3 options volume; penny spreads; weeklies+dailies
+MSFT,core,software,mega OI; Azure/OpenAI capex; nickel spreads; weeklies
+GOOGL,core,software,liquid megacap; Gemini/cloud AI; tight spreads; weeklies
+AMZN,core,software,top options volume; AWS AI; penny spreads; weeklies
+META,core,software,high options volume; AI capex; tight spreads; weeklies
+TSLA,core,ev-auto,#2 single-name options volume; robotaxi/AI; dailies+weeklies
+NFLX,core,comms,liquid megacap; high price = big premium moves; weeklies
+PLTR,core,software,massive retail options volume; AI/defense; weeklies
+MSTR,core,crypto,BTC proxy; extreme IV; top options volume; weeklies
+COIN,core,crypto,crypto bellwether; very liquid; high IV; weeklies
+HOOD,core,fintech,top options volume; high-beta; weeklies
+SOFI,core,fintech,very high options volume; high-beta fintech; weeklies
+MRVL,core,ai-semis,AI optical/custom silicon; liquid; weeklies
+CRWD,core,software,cybersecurity leader; nickel spreads; weeklies
+PANW,core,software,cybersecurity megacap; liquid; weeklies
+SMCI,core,ai-semis,AI server play; extreme vol; heavy options volume; weeklies
+ORCL,core,software,AI cloud capex; liquid megacap; weeklies
+DELL,core,industrial,AI server demand; liquid; nickel spreads; weeklies
+NOW,swing,software,ServiceNow AI; liquid; weeklies (high price)
+SNOW,swing,software,data/AI; high-beta; liquid weeklies
+NET,swing,software,Cloudflare; high-beta; liquid weeklies
+CRM,swing,software,Salesforce AI; liquid; weeklies
+CRWV,swing,software,CoreWeave GPU cloud; hot 2025 IPO; very liquid; high IV; weeklies
+DDOG,swing,software,observability/AI; liquid; weeklies
+ZS,swing,software,zero-trust cyber; liquid; weeklies
+S,swing,software,SentinelOne; high-beta cyber; weeklies
+FTNT,swing,software,Fortinet; liquid; weeklies
+OKTA,swing,software,identity/cyber; liquid; weeklies
+MDB,swing,software,MongoDB; high-beta; liquid weeklies
+APP,swing,software,AppLovin AI adtech; huge momentum; liquid weeklies
+RBRK,swing,software,Rubrik cyber/data; growing chain depth; weeklies
+NBIS,swing,software,Nebius AI neocloud; hot; high IV; liquid weeklies
+SHOP,swing,software,high-beta commerce/fintech; very liquid weeklies
+ALAB,swing,ai-semis,Astera PCIe/connectivity; high-beta; liquid weeklies
+CRDO,swing,ai-semis,Credo AEC connectivity; momentum; liquid weeklies
+COHR,swing,ai-semis,optical transceivers; AI optics; liquid weeklies
+LITE,swing,ai-semis,Lumentum optical; AI datacenter; liquid weeklies
+AAOI,swing,ai-semis,Applied Opto; high-beta optics; high IV; liquid weeklies
+ASML,swing,ai-semis,litho monopoly; liquid ADR; weeklies (high price)
+AMAT,swing,ai-semis,semicap equipment; liquid; weeklies
+LRCX,swing,ai-semis,semicap; liquid; weeklies
+TER,swing,ai-semis,Teradyne test/robotics; liquid; weeklies
+MPWR,swing,ai-semis,power mgmt for AI; liquid; weeklies (high price)
+WDC,swing,ai-semis,storage/HDD; AI data demand; liquid weeklies
+SNDK,swing,ai-semis,SanDisk NAND; 2025 spinoff; hot momentum; liquid weeklies
+ANET,swing,comms,Arista AI networking; liquid; weeklies
+CIEN,swing,comms,Ciena optical networking; liquid; weeklies
+ASTS,swing,comms,AST SpaceMobile; huge options volume; high IV; weeklies
+GLW,swing,industrial,Corning AI fiber/optics; liquid; weeklies
+VRT,swing,industrial,Vertiv datacenter power/cooling; high-beta; liquid weeklies
+ETN,swing,industrial,Eaton datacenter electrical; liquid; weeklies
+GEV,swing,industrial,GE Vernova grid/power for AI; high-beta; liquid weeklies
+CLS,swing,industrial,Celestica AI hardware; momentum; liquid weeklies
+SYM,swing,industrial,Symbotic warehouse robotics; high-beta; liquid weeklies
+APLD,swing,industrial,Applied Digital AI datacenters; high IV; liquid weeklies
+CEG,swing,energy,Constellation nuclear for AI; liquid; weeklies
+VST,swing,energy,Vistra power/nuclear; high-beta; liquid weeklies
+TLN,swing,energy,Talen nuclear/datacenter PPAs; liquid weeklies
+OKLO,swing,energy,Oklo SMR; extreme momentum/IV; liquid weeklies
+SMR,swing,energy,NuScale SMR; high-beta; liquid weeklies
+CCJ,swing,energy,Cameco uranium; liquid; weeklies
+AVAV,swing,defense,AeroVironment drones; high-beta; liquid weeklies
+KTOS,swing,defense,Kratos unmanned systems; high-beta; liquid weeklies
+RCAT,swing,defense,Red Cat drones; small-cap high IV; liquid weeklies
+RKLB,swing,defense,Rocket Lab space/defense; huge options volume; weeklies
+LMT,swing,defense,Lockheed; liquid; weeklies (lower-beta anchor)
+NOC,swing,defense,Northrop autonomous systems; liquid; weeklies
+RTX,swing,defense,RTX; liquid; weeklies (lower-beta anchor)
+AFRM,swing,fintech,Affirm BNPL; high-beta; liquid weeklies
+XYZ,swing,fintech,Block; liquid; weeklies
+NU,swing,fintech,Nubank; high-beta; liquid weeklies
+CHYM,swing,fintech,Chime; 2025 IPO; verify chain depth; weeklies building
+KLAR,swing,fintech,Klarna BNPL; 2025 IPO; verify chain depth
+CRCL,swing,crypto,Circle stablecoin; 2025 IPO; very liquid; high IV; weeklies
+GEMI,swing,crypto,Gemini exchange; 2025 IPO; liquid weeklies; high IV
+MARA,swing,crypto,BTC miner; very liquid; high IV; weeklies
+RIOT,swing,crypto,BTC miner; very liquid; high IV; weeklies
+IREN,swing,crypto,IREN BTC/AI datacenter; momentum; liquid weeklies
+UBER,swing,ev-auto,robotaxi/autonomy platform; very liquid; weeklies
+RIVN,swing,ev-auto,Rivian EV; high-beta; very liquid; weeklies
+ACHR,swing,ev-auto,Archer eVTOL; high options volume; high IV; weeklies
+JOBY,swing,ev-auto,Joby eVTOL; high options volume; high IV; weeklies
+SPY,etf,etf,deepest options market; penny spreads; dailies
+QQQ,etf,etf,Nasdaq-100; penny spreads; dailies; AI-heavy
+IWM,etf,etf,Russell 2000; liquid weeklies; high-beta small caps
+SMH,etf,etf,semiconductor ETF; liquid; weeklies; AI-semis basket
+SOXL,etf,etf,3x semis; extreme momentum; very liquid weeklies
+TQQQ,etf,etf,3x Nasdaq; huge options volume; weeklies
+XLK,etf,etf,tech sector SPDR; liquid; weeklies
+ARKK,etf,etf,innovation/high-beta tech; liquid weeklies
+IGV,etf,etf,software ETF; liquid; weeklies
+URA,etf,etf,uranium/nuclear basket; liquid weeklies

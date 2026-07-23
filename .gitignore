@@ -15,3 +15,10 @@ fetch_run.log
 
 # Node (not used by the static app, but just in case)
 node_modules/
+
+# Console build output
+console/dist/
+console/public/data
+
+# Engine logs
+data/run.log
