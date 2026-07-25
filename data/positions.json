@@ -14,7 +14,13 @@
       "signal_score": 0.77,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 21% (cheap); RS +18.8% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 21% (cheap); RS +18.8% vs SPY",
+      "current_premium": 0.5735,
+      "current_underlying": 20.69,
+      "pnl_pct": -16.88,
+      "pnl_dollars": -81.52,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "NU",
@@ -30,7 +36,13 @@
       "signal_score": 0.7408,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; volume 1.8x; IV rank 23% (cheap); RS +13.2% vs SPY"
+      "rationale": "EMA9/21 bullish; volume 1.8x; IV rank 23% (cheap); RS +13.2% vs SPY",
+      "current_premium": 0.2586,
+      "current_underlying": 14.09,
+      "pnl_pct": -10.83,
+      "pnl_dollars": -53.38,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "SNOW",
@@ -45,8 +57,14 @@
       "contracts": 1,
       "signal_score": 0.74,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 19% (cheap); RS +16.7% vs SPY"
+      "high_water": 0.06092614081496767,
+      "rationale": "EMA9/21 bullish; IV rank 19% (cheap); RS +16.7% vs SPY",
+      "current_premium": 7.4901,
+      "current_underlying": 268.06,
+      "pnl_pct": 6.09,
+      "pnl_dollars": 43.01,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "AVGO",
@@ -62,7 +80,13 @@
       "signal_score": 0.726,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +2.0% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +2.0% vs SPY",
+      "current_premium": 8.8334,
+      "current_underlying": 381.92,
+      "pnl_pct": -22.72,
+      "pnl_dollars": -259.66,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "NVDA",
@@ -78,7 +102,13 @@
       "signal_score": 0.7246,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +4.2% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +4.2% vs SPY",
+      "current_premium": 4.1976,
+      "current_underlying": 206.84,
+      "pnl_pct": -17.04,
+      "pnl_dollars": -86.24,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "NET",
@@ -94,7 +124,13 @@
       "signal_score": 0.71,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 23% (cheap); RS +16.7% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 23% (cheap); RS +16.7% vs SPY",
+      "current_premium": 7.273,
+      "current_underlying": 262.15,
+      "pnl_pct": -5.54,
+      "pnl_dollars": -42.7,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "VST",
@@ -110,7 +146,13 @@
       "signal_score": 0.7016,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 7% (cheap); RS +3.1% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 7% (cheap); RS +3.1% vs SPY",
+      "current_premium": 2.8899,
+      "current_underlying": 163.38,
+      "pnl_pct": -32.95,
+      "pnl_dollars": -142.01,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "AAPL",
@@ -126,7 +168,13 @@
       "signal_score": 0.6975,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; RS +9.1% vs SPY"
+      "rationale": "EMA9/21 bullish; RS +9.1% vs SPY",
+      "current_premium": 7.0276,
+      "current_underlying": 333.02,
+      "pnl_pct": -14.3,
+      "pnl_dollars": -117.24,
+      "days_held": 1,
+      "dte_remaining": 41
     }
   ],
   "closed": []
