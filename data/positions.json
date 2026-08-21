@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 6% (cheap); RS +11.7% vs SPY",
-      "current_premium": 0.9121,
-      "current_underlying": 41.46,
-      "pnl_pct": -46.66,
-      "pnl_dollars": -159.57,
-      "days_held": 15,
-      "dte_remaining": 27
+      "current_premium": 0.9177,
+      "current_underlying": 41.83,
+      "pnl_pct": -46.33,
+      "pnl_dollars": -158.45,
+      "days_held": 16,
+      "dte_remaining": 26
     },
     {
       "ticker": "KLAR",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +4.0% vs SPY",
-      "current_premium": 0.3346,
-      "current_underlying": 14.0,
-      "pnl_pct": -47.72,
-      "pnl_dollars": -213.8,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 0.3682,
+      "current_underlying": 14.33,
+      "pnl_pct": -42.46,
+      "pnl_dollars": -190.23,
+      "days_held": 8,
+      "dte_remaining": 34
     },
     {
       "ticker": "SNOW",
@@ -57,36 +57,14 @@
       "contracts": 1,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
+      "high_water": 0.17503562014973012,
       "rationale": "EMA9/21 bullish; IV rank 16% (cheap); RS +17.2% vs SPY",
-      "current_premium": 6.112,
-      "current_underlying": 321.29,
-      "pnl_pct": -23.89,
-      "pnl_dollars": -191.8,
-      "days_held": 2,
-      "dte_remaining": 40
-    },
-    {
-      "ticker": "CRCL",
-      "sector": "crypto",
-      "entry_date": "2026-08-19",
-      "entry_underlying": 78.59,
-      "strike": 100,
-      "dte_at_entry": 42,
-      "entry_premium": 3.54,
-      "entry_iv": 0.9185,
-      "entry_delta": 0.274,
-      "contracts": 1,
-      "signal_score": 0.8629,
-      "position_size_pct": 0.5,
-      "high_water": 0.2743866025629162,
-      "rationale": "EMA9/21 bullish; volume 2.0x; IV rank 10% (cheap); RS +15.9% vs SPY",
-      "current_premium": 4.5113,
-      "current_underlying": 83.66,
-      "pnl_pct": 27.44,
-      "pnl_dollars": 97.13,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 9.4355,
+      "current_underlying": 332.78,
+      "pnl_pct": 17.5,
+      "pnl_dollars": 140.55,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "MDB",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +41.6% vs SPY",
-      "current_premium": 12.2498,
-      "current_underlying": 420.37,
-      "pnl_pct": -23.77,
-      "pnl_dollars": -382.02,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 13.9966,
+      "current_underlying": 430.83,
+      "pnl_pct": -12.9,
+      "pnl_dollars": -207.34,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "MSTR",
@@ -123,8 +101,14 @@
       "contracts": 1,
       "signal_score": 0.7925,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; volume 2.4x; RS +16.7% vs SPY"
+      "high_water": 0.372230959765782,
+      "rationale": "EMA9/21 bullish; volume 2.4x; RS +16.7% vs SPY",
+      "current_premium": 7.1905,
+      "current_underlying": 119.25,
+      "pnl_pct": 37.22,
+      "pnl_dollars": 195.05,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "ZS",
@@ -139,8 +123,14 @@
       "contracts": 1,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 21% (cheap); RS +21.9% vs SPY"
+      "high_water": 0.3682195962549304,
+      "rationale": "EMA9/21 bullish; IV rank 21% (cheap); RS +21.9% vs SPY",
+      "current_premium": 7.3747,
+      "current_underlying": 181.74,
+      "pnl_pct": 36.82,
+      "pnl_dollars": 198.47,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "ARKK",
@@ -155,8 +145,30 @@
       "contracts": 2,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
+      "high_water": 0.29631076939535134,
+      "rationale": "EMA9/21 bullish; IV rank 29% (cheap); RS +9.5% vs SPY",
+      "current_premium": 2.8,
+      "current_underlying": 86.21,
+      "pnl_pct": 29.63,
+      "pnl_dollars": 128.01,
+      "days_held": 1,
+      "dte_remaining": 41
+    },
+    {
+      "ticker": "CRCL",
+      "sector": "crypto",
+      "entry_date": "2026-08-21",
+      "entry_underlying": 87.98,
+      "strike": 112,
+      "dte_at_entry": 42,
+      "entry_premium": 3.73,
+      "entry_iv": 0.8956,
+      "entry_delta": 0.266,
+      "contracts": 1,
+      "signal_score": 0.8869,
+      "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 29% (cheap); RS +9.5% vs SPY"
+      "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 9% (cheap); RS +37.5% vs SPY"
     }
   ],
   "closed": [
@@ -934,6 +946,31 @@
       "exit_date": "2026-08-20",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 0.2818
+    },
+    {
+      "ticker": "CRCL",
+      "sector": "crypto",
+      "entry_date": "2026-08-19",
+      "entry_underlying": 78.59,
+      "strike": 100,
+      "dte_at_entry": 42,
+      "entry_premium": 3.54,
+      "entry_iv": 0.9185,
+      "entry_delta": 0.274,
+      "contracts": 1,
+      "signal_score": 0.8629,
+      "position_size_pct": 0.5,
+      "high_water": 0.7097592938904398,
+      "rationale": "EMA9/21 bullish; volume 2.0x; IV rank 10% (cheap); RS +15.9% vs SPY",
+      "current_premium": 6.0525,
+      "current_underlying": 87.98,
+      "pnl_pct": 70.98,
+      "pnl_dollars": 251.25,
+      "days_held": 2,
+      "dte_remaining": 40,
+      "exit_date": "2026-08-21",
+      "exit_reason": "PROFIT_TARGET",
+      "exit_premium": 6.0525
     }
   ]
 }
