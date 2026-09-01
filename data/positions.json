@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.17503562014973012,
       "rationale": "EMA9/21 bullish; IV rank 16% (cheap); RS +17.2% vs SPY",
-      "current_premium": 6.2921,
-      "current_underlying": 329.11,
-      "pnl_pct": -21.64,
-      "pnl_dollars": -173.79,
-      "days_held": 11,
-      "dte_remaining": 31
+      "current_premium": 4.614,
+      "current_underlying": 331.43,
+      "pnl_pct": -42.54,
+      "pnl_dollars": -341.6,
+      "days_held": 14,
+      "dte_remaining": 28
     },
     {
       "ticker": "MDB",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.19403692040982082,
       "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +41.6% vs SPY",
-      "current_premium": 18.5546,
-      "current_underlying": 440.58,
-      "pnl_pct": 15.46,
-      "pnl_dollars": 248.46,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 18.9174,
+      "current_underlying": 453.37,
+      "pnl_pct": 17.72,
+      "pnl_dollars": 284.74,
+      "days_held": 13,
+      "dte_remaining": 29
     },
     {
       "ticker": "CRCL",
@@ -57,14 +57,14 @@
       "contracts": 1,
       "signal_score": 0.8869,
       "position_size_pct": 0.5,
-      "high_water": 0.09961230888645105,
+      "high_water": 0.37128080110427025,
       "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 9% (cheap); RS +37.5% vs SPY",
-      "current_premium": 3.9778,
-      "current_underlying": 94.24,
-      "pnl_pct": 6.64,
-      "pnl_dollars": 24.78,
-      "days_held": 8,
-      "dte_remaining": 34
+      "current_premium": 5.1149,
+      "current_underlying": 95.55,
+      "pnl_pct": 37.13,
+      "pnl_dollars": 138.49,
+      "days_held": 11,
+      "dte_remaining": 31
     },
     {
       "ticker": "TSLA",
@@ -79,14 +79,14 @@
       "contracts": 1,
       "signal_score": 0.74,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
+      "high_water": 0.39419244402193393,
       "rationale": "EMA9/21 bullish; IV rank 13% (cheap); RS +9.5% vs SPY",
-      "current_premium": 8.0285,
-      "current_underlying": 354.81,
-      "pnl_pct": -13.11,
-      "pnl_dollars": -121.15,
-      "days_held": 5,
-      "dte_remaining": 37
+      "current_premium": 12.8823,
+      "current_underlying": 367.95,
+      "pnl_pct": 39.42,
+      "pnl_dollars": 364.23,
+      "days_held": 8,
+      "dte_remaining": 34
     },
     {
       "ticker": "SMCI",
@@ -103,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.06270946341510397,
       "rationale": "EMA9/21 bullish; RS +14.7% vs SPY",
-      "current_premium": 2.061,
-      "current_underlying": 38.46,
-      "pnl_pct": 3.05,
-      "pnl_dollars": 12.2,
-      "days_held": 5,
-      "dte_remaining": 37
+      "current_premium": 1.6563,
+      "current_underlying": 37.28,
+      "pnl_pct": -17.18,
+      "pnl_dollars": -68.74,
+      "days_held": 8,
+      "dte_remaining": 34
     },
     {
       "ticker": "AFRM",
@@ -125,12 +125,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 3.1x; IV rank 13% (cheap)",
-      "current_premium": 2.3557,
-      "current_underlying": 77.49,
-      "pnl_pct": -5.39,
-      "pnl_dollars": -26.86,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 1.3152,
+      "current_underlying": 74.45,
+      "pnl_pct": -47.18,
+      "pnl_dollars": -234.95,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "GEMI",
@@ -147,12 +147,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 28% (cheap); RS +10.6% vs SPY",
-      "current_premium": 0.2985,
-      "current_underlying": 4.71,
-      "pnl_pct": -3.7,
-      "pnl_dollars": -18.37,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 0.2502,
+      "current_underlying": 4.5,
+      "pnl_pct": -19.29,
+      "pnl_dollars": -95.7,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "ZS",
@@ -169,12 +169,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.7x; IV rank 29% (cheap); RS +22.3% vs SPY",
-      "current_premium": 6.612,
-      "current_underlying": 187.3,
-      "pnl_pct": -5.27,
-      "pnl_dollars": -36.8,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 6.5093,
+      "current_underlying": 188.38,
+      "pnl_pct": -6.74,
+      "pnl_dollars": -47.07,
+      "days_held": 4,
+      "dte_remaining": 38
     }
   ],
   "closed": [
