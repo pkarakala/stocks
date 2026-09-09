@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.06270946341510397,
       "rationale": "EMA9/21 bullish; RS +14.7% vs SPY",
-      "current_premium": 1.316,
+      "current_premium": 1.2523,
       "current_underlying": 39.59,
-      "pnl_pct": -34.2,
-      "pnl_dollars": -136.8,
-      "days_held": 15,
-      "dte_remaining": 27
+      "pnl_pct": -37.38,
+      "pnl_dollars": -149.54,
+      "days_held": 16,
+      "dte_remaining": 26
     },
     {
       "ticker": "AAPL",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.14164724083130806,
       "rationale": "EMA9/21 bullish; IV rank 13% (cheap); RS +6.4% vs SPY",
-      "current_premium": 3.4303,
+      "current_premium": 3.3105,
       "current_underlying": 319.97,
-      "pnl_pct": -19.29,
-      "pnl_dollars": -81.97,
-      "days_held": 5,
-      "dte_remaining": 37
+      "pnl_pct": -22.11,
+      "pnl_dollars": -93.95,
+      "days_held": 6,
+      "dte_remaining": 36
     },
     {
       "ticker": "CRCL",
@@ -59,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.7x; IV rank 24% (cheap); RS +62.5% vs SPY",
-      "current_premium": 4.8844,
+      "current_premium": 4.7212,
       "current_underlying": 102.05,
-      "pnl_pct": -15.64,
-      "pnl_dollars": -90.56,
-      "days_held": 3,
-      "dte_remaining": 39
+      "pnl_pct": -18.46,
+      "pnl_dollars": -106.88,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "TSLA",
@@ -81,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.7x; IV rank 19% (cheap); RS +17.2% vs SPY",
-      "current_premium": 7.5305,
+      "current_premium": 7.2565,
       "current_underlying": 354.08,
-      "pnl_pct": -32.28,
-      "pnl_dollars": -358.95,
-      "days_held": 3,
-      "dte_remaining": 39
+      "pnl_pct": -34.74,
+      "pnl_dollars": -386.35,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "SNOW",
@@ -103,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 4.3x; RS +11.5% vs SPY",
-      "current_premium": 9.9385,
+      "current_premium": 9.5773,
       "current_underlying": 337.18,
-      "pnl_pct": -33.61,
-      "pnl_dollars": -503.15,
-      "days_held": 3,
-      "dte_remaining": 39
+      "pnl_pct": -36.02,
+      "pnl_dollars": -539.27,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "ORCL",
@@ -124,7 +124,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +8.4% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +8.4% vs SPY",
+      "current_premium": 5.0163,
+      "current_underlying": 158.78,
+      "pnl_pct": -5.17,
+      "pnl_dollars": -27.37,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "CEG",
@@ -140,7 +146,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 9% (cheap); RS +11.3% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 9% (cheap); RS +11.3% vs SPY",
+      "current_premium": 6.2808,
+      "current_underlying": 298.96,
+      "pnl_pct": -5.12,
+      "pnl_dollars": -33.92,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "CHYM",
@@ -156,7 +168,13 @@
       "signal_score": 0.77,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 6% (cheap); RS +16.4% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 6% (cheap); RS +16.4% vs SPY",
+      "current_premium": 0.9597,
+      "current_underlying": 33.76,
+      "pnl_pct": -4.98,
+      "pnl_dollars": -20.13,
+      "days_held": 1,
+      "dte_remaining": 41
     }
   ],
   "closed": [
