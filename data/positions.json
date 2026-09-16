@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.7x; IV rank 19% (cheap); RS +17.2% vs SPY",
-      "current_premium": 7.7269,
-      "current_underlying": 365.44,
-      "pnl_pct": -30.51,
-      "pnl_dollars": -339.31,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 6.357,
+      "current_underlying": 358.97,
+      "pnl_pct": -42.83,
+      "pnl_dollars": -476.3,
+      "days_held": 11,
+      "dte_remaining": 31
     },
     {
       "ticker": "QCOM",
@@ -36,7 +36,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 11% (cheap); RS +12.8% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 11% (cheap); RS +12.8% vs SPY",
+      "current_premium": 2.8389,
+      "current_underlying": 180.15,
+      "pnl_pct": -14.75,
+      "pnl_dollars": -49.11,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "MU",
@@ -52,7 +58,13 @@
       "signal_score": 0.7735,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +4.4% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +4.4% vs SPY",
+      "current_premium": 24.0384,
+      "current_underlying": 924.03,
+      "pnl_pct": -29.92,
+      "pnl_dollars": -1026.16,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "CHYM",
@@ -67,8 +79,14 @@
       "contracts": 4,
       "signal_score": 0.7559,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +4.3% vs SPY"
+      "high_water": 0.2553288938560266,
+      "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +4.3% vs SPY",
+      "current_premium": 1.293,
+      "current_underlying": 33.97,
+      "pnl_pct": 25.53,
+      "pnl_dollars": 105.2,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "AAPL",
@@ -84,7 +102,13 @@
       "signal_score": 0.755,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
+      "current_premium": 5.3895,
+      "current_underlying": 333.08,
+      "pnl_pct": -1.29,
+      "pnl_dollars": -7.05,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "SMCI",
@@ -100,7 +124,13 @@
       "signal_score": 0.7529,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +4.1% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +4.1% vs SPY",
+      "current_premium": 1.1235,
+      "current_underlying": 36.74,
+      "pnl_pct": -31.07,
+      "pnl_dollars": -151.94,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "XLK",
@@ -116,7 +146,13 @@
       "signal_score": 0.725,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 19% (cheap)"
+      "rationale": "EMA9/21 bullish; IV rank 19% (cheap)",
+      "current_premium": 2.0652,
+      "current_underlying": 184.28,
+      "pnl_pct": -26.24,
+      "pnl_dollars": -73.48,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "CEG",
@@ -132,7 +168,13 @@
       "signal_score": 0.7219,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 10% (cheap); RS +4.1% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 10% (cheap); RS +4.1% vs SPY",
+      "current_premium": 4.7632,
+      "current_underlying": 264.57,
+      "pnl_pct": -26.95,
+      "pnl_dollars": -175.68,
+      "days_held": 1,
+      "dte_remaining": 41
     }
   ],
   "closed": [
