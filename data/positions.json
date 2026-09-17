@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.7x; IV rank 19% (cheap); RS +17.2% vs SPY",
-      "current_premium": 6.357,
-      "current_underlying": 358.97,
-      "pnl_pct": -42.83,
-      "pnl_dollars": -476.3,
-      "days_held": 11,
-      "dte_remaining": 31
+      "current_premium": 5.8392,
+      "current_underlying": 358.08,
+      "pnl_pct": -47.49,
+      "pnl_dollars": -528.08,
+      "days_held": 12,
+      "dte_remaining": 30
     },
     {
       "ticker": "QCOM",
@@ -35,36 +35,14 @@
       "contracts": 1,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
+      "high_water": 0.3305844077624854,
       "rationale": "EMA9/21 bullish; IV rank 11% (cheap); RS +12.8% vs SPY",
-      "current_premium": 2.8389,
-      "current_underlying": 180.15,
-      "pnl_pct": -14.75,
-      "pnl_dollars": -49.11,
-      "days_held": 1,
-      "dte_remaining": 41
-    },
-    {
-      "ticker": "MU",
-      "sector": "ai-semis",
-      "entry_date": "2026-09-15",
-      "entry_underlying": 975.26,
-      "strike": 1169,
-      "dte_at_entry": 42,
-      "entry_premium": 34.3,
-      "entry_iv": 0.7075,
-      "entry_delta": 0.269,
-      "contracts": 1,
-      "signal_score": 0.7735,
-      "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +4.4% vs SPY",
-      "current_premium": 24.0384,
-      "current_underlying": 924.03,
-      "pnl_pct": -29.92,
-      "pnl_dollars": -1026.16,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 4.4308,
+      "current_underlying": 184.84,
+      "pnl_pct": 33.06,
+      "pnl_dollars": 110.08,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "CHYM",
@@ -81,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.2553288938560266,
       "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +4.3% vs SPY",
-      "current_premium": 1.293,
-      "current_underlying": 33.97,
-      "pnl_pct": 25.53,
-      "pnl_dollars": 105.2,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 1.1398,
+      "current_underlying": 33.61,
+      "pnl_pct": 10.66,
+      "pnl_dollars": 43.92,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "AAPL",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
-      "current_premium": 5.3895,
-      "current_underlying": 333.08,
-      "pnl_pct": -1.29,
-      "pnl_dollars": -7.05,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 4.9999,
+      "current_underlying": 332.41,
+      "pnl_pct": -8.43,
+      "pnl_dollars": -46.01,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "SMCI",
@@ -125,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +4.1% vs SPY",
-      "current_premium": 1.1235,
-      "current_underlying": 36.74,
-      "pnl_pct": -31.07,
-      "pnl_dollars": -151.94,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 1.1174,
+      "current_underlying": 36.85,
+      "pnl_pct": -31.45,
+      "pnl_dollars": -153.77,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "XLK",
@@ -147,12 +125,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 19% (cheap)",
-      "current_premium": 2.0652,
-      "current_underlying": 184.28,
-      "pnl_pct": -26.24,
-      "pnl_dollars": -73.48,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 1.5284,
+      "current_underlying": 183.93,
+      "pnl_pct": -45.42,
+      "pnl_dollars": -127.16,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "CEG",
@@ -169,12 +147,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 10% (cheap); RS +4.1% vs SPY",
-      "current_premium": 4.7632,
-      "current_underlying": 264.57,
-      "pnl_pct": -26.95,
-      "pnl_dollars": -175.68,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 3.8134,
+      "current_underlying": 259.89,
+      "pnl_pct": -41.51,
+      "pnl_dollars": -270.66,
+      "days_held": 2,
+      "dte_remaining": 40
     }
   ],
   "closed": [
@@ -1677,6 +1655,31 @@
       "exit_date": "2026-09-15",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 2.9409
+    },
+    {
+      "ticker": "MU",
+      "sector": "ai-semis",
+      "entry_date": "2026-09-15",
+      "entry_underlying": 975.26,
+      "strike": 1169,
+      "dte_at_entry": 42,
+      "entry_premium": 34.3,
+      "entry_iv": 0.7075,
+      "entry_delta": 0.269,
+      "contracts": 1,
+      "signal_score": 0.7735,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +4.4% vs SPY",
+      "current_premium": 14.8395,
+      "current_underlying": 926.55,
+      "pnl_pct": -56.74,
+      "pnl_dollars": -1946.05,
+      "days_held": 2,
+      "dte_remaining": 40,
+      "exit_date": "2026-09-17",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 14.8395
     }
   ]
 }
