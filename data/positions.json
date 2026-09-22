@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.03424257589264867,
       "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
-      "current_premium": 5.647,
-      "current_underlying": 337.0,
-      "pnl_pct": 3.42,
-      "pnl_dollars": 18.7,
-      "days_held": 4,
-      "dte_remaining": 38
+      "current_premium": 4.4104,
+      "current_underlying": 336.13,
+      "pnl_pct": -19.22,
+      "pnl_dollars": -104.96,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "XLK",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 19% (cheap)",
-      "current_premium": 2.5911,
-      "current_underlying": 188.06,
-      "pnl_pct": -7.46,
-      "pnl_dollars": -20.89,
-      "days_held": 4,
-      "dte_remaining": 38
+      "current_premium": 2.7985,
+      "current_underlying": 189.6,
+      "pnl_pct": -0.05,
+      "pnl_dollars": -0.15,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "QCOM",
@@ -58,7 +58,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +18.0% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +18.0% vs SPY",
+      "current_premium": 2.8455,
+      "current_underlying": 177.72,
+      "pnl_pct": -23.71,
+      "pnl_dollars": -88.45,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "AMD",
@@ -73,8 +79,14 @@
       "contracts": 1,
       "signal_score": 0.7849,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 28% (cheap); RS +17.7% vs SPY"
+      "high_water": 0.14313857205436514,
+      "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 28% (cheap); RS +17.7% vs SPY",
+      "current_premium": 20.2107,
+      "current_underlying": 559.82,
+      "pnl_pct": 14.31,
+      "pnl_dollars": 253.07,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "SMCI",
@@ -90,7 +102,13 @@
       "signal_score": 0.7768,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 21% (cheap); RS +11.1% vs SPY"
+      "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 21% (cheap); RS +11.1% vs SPY",
+      "current_premium": 1.3765,
+      "current_underlying": 39.09,
+      "pnl_pct": -23.95,
+      "pnl_dollars": -86.69,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "ANET",
@@ -106,7 +124,13 @@
       "signal_score": 0.77,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +7.9% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +7.9% vs SPY",
+      "current_premium": 5.2533,
+      "current_underlying": 199.39,
+      "pnl_pct": -13.17,
+      "pnl_dollars": -79.67,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "SYM",
@@ -122,7 +146,13 @@
       "signal_score": 0.74,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 0% (cheap); RS +7.0% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 0% (cheap); RS +7.0% vs SPY",
+      "current_premium": 0.8676,
+      "current_underlying": 41.89,
+      "pnl_pct": -33.77,
+      "pnl_dollars": -132.71,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "TSLA",
@@ -138,7 +168,13 @@
       "signal_score": 0.71,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +5.1% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +5.1% vs SPY",
+      "current_premium": 9.8495,
+      "current_underlying": 364.27,
+      "pnl_pct": -16.46,
+      "pnl_dollars": -194.05,
+      "days_held": 3,
+      "dte_remaining": 39
     }
   ],
   "closed": [
