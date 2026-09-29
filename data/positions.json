@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.03424257589264867,
       "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
-      "current_premium": 3.809,
-      "current_underlying": 335.92,
-      "pnl_pct": -30.24,
-      "pnl_dollars": -165.1,
-      "days_held": 11,
-      "dte_remaining": 31
+      "current_premium": 4.0784,
+      "current_underlying": 338.4,
+      "pnl_pct": -25.3,
+      "pnl_dollars": -138.16,
+      "days_held": 14,
+      "dte_remaining": 28
     },
     {
       "ticker": "SMCI",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.06752697533709563,
       "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 21% (cheap); RS +11.1% vs SPY",
-      "current_premium": 1.2675,
-      "current_underlying": 41.51,
-      "pnl_pct": -29.97,
-      "pnl_dollars": -108.51,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 1.2078,
+      "current_underlying": 41.78,
+      "pnl_pct": -33.27,
+      "pnl_dollars": -120.45,
+      "days_held": 10,
+      "dte_remaining": 32
     },
     {
       "ticker": "ANET",
@@ -59,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.12233805340103482,
       "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +7.9% vs SPY",
-      "current_premium": 5.0691,
-      "current_underlying": 205.7,
-      "pnl_pct": -16.21,
-      "pnl_dollars": -98.09,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 4.0337,
+      "current_underlying": 204.92,
+      "pnl_pct": -33.33,
+      "pnl_dollars": -201.63,
+      "days_held": 10,
+      "dte_remaining": 32
     },
     {
       "ticker": "SYM",
@@ -81,34 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.1302690319723902,
       "rationale": "EMA9/21 bullish; IV rank 0% (cheap); RS +7.0% vs SPY",
-      "current_premium": 1.3281,
-      "current_underlying": 44.04,
-      "pnl_pct": 1.38,
-      "pnl_dollars": 5.43,
-      "days_held": 7,
-      "dte_remaining": 35
-    },
-    {
-      "ticker": "TSLA",
-      "sector": "ev-auto",
-      "entry_date": "2026-09-19",
-      "entry_underlying": 366.2,
-      "strike": 431,
-      "dte_at_entry": 42,
-      "entry_premium": 11.79,
-      "entry_iv": 0.6424,
-      "entry_delta": 0.269,
-      "contracts": 1,
-      "signal_score": 0.71,
-      "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +5.1% vs SPY",
-      "current_premium": 9.6486,
-      "current_underlying": 377.94,
-      "pnl_pct": -18.16,
-      "pnl_dollars": -214.14,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 0.7758,
+      "current_underlying": 42.0,
+      "pnl_pct": -40.78,
+      "pnl_dollars": -160.27,
+      "days_held": 10,
+      "dte_remaining": 32
     },
     {
       "ticker": "NBIS",
@@ -125,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.23780040351385773,
       "rationale": "EMA9/21 bullish; IV rank 4% (cheap); RS +5.0% vs SPY",
-      "current_premium": 11.8705,
-      "current_underlying": 243.48,
-      "pnl_pct": 23.78,
-      "pnl_dollars": 228.05,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 7.5698,
+      "current_underlying": 231.88,
+      "pnl_pct": -21.07,
+      "pnl_dollars": -202.02,
+      "days_held": 6,
+      "dte_remaining": 36
     },
     {
       "ticker": "TSM",
@@ -147,12 +125,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.07304166156444171,
       "rationale": "EMA9/21 bullish; IV rank 15% (cheap); RS +5.3% vs SPY",
-      "current_premium": 9.0306,
-      "current_underlying": 451.15,
-      "pnl_pct": 1.13,
-      "pnl_dollars": 10.06,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 7.2053,
+      "current_underlying": 452.88,
+      "pnl_pct": -19.31,
+      "pnl_dollars": -172.47,
+      "days_held": 6,
+      "dte_remaining": 36
     },
     {
       "ticker": "MU",
@@ -169,12 +147,28 @@
       "position_size_pct": 0.5,
       "high_water": 0.21592160558382612,
       "rationale": "EMA9/21 bullish; IV rank 23% (cheap); RS +6.7% vs SPY",
-      "current_premium": 38.0817,
-      "current_underlying": 1080.53,
-      "pnl_pct": 6.52,
-      "pnl_dollars": 233.17,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 29.6771,
+      "current_underlying": 1053.98,
+      "pnl_pct": -16.99,
+      "pnl_dollars": -607.29,
+      "days_held": 6,
+      "dte_remaining": 36
+    },
+    {
+      "ticker": "PLTR",
+      "sector": "software",
+      "entry_date": "2026-09-29",
+      "entry_underlying": 187.48,
+      "strike": 220,
+      "dte_at_entry": 42,
+      "entry_premium": 5.96,
+      "entry_iv": 0.6328,
+      "entry_delta": 0.269,
+      "contracts": 1,
+      "signal_score": 0.755,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap)"
     }
   ],
   "closed": [
@@ -1902,6 +1896,31 @@
       "exit_date": "2026-09-23",
       "exit_reason": "PROFIT_TARGET",
       "exit_premium": 49.2909
+    },
+    {
+      "ticker": "TSLA",
+      "sector": "ev-auto",
+      "entry_date": "2026-09-19",
+      "entry_underlying": 366.2,
+      "strike": 431,
+      "dte_at_entry": 42,
+      "entry_premium": 11.79,
+      "entry_iv": 0.6424,
+      "entry_delta": 0.269,
+      "contracts": 1,
+      "signal_score": 0.71,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +5.1% vs SPY",
+      "current_premium": 5.2319,
+      "current_underlying": 357.45,
+      "pnl_pct": -55.62,
+      "pnl_dollars": -655.81,
+      "days_held": 10,
+      "dte_remaining": 32,
+      "exit_date": "2026-09-29",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 5.2319
     }
   ]
 }
