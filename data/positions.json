@@ -1,28 +1,6 @@
 {
   "open": [
     {
-      "ticker": "AAPL",
-      "sector": "software",
-      "entry_date": "2026-09-15",
-      "entry_underlying": 332.27,
-      "strike": 358,
-      "dte_at_entry": 42,
-      "entry_premium": 5.46,
-      "entry_iv": 0.3087,
-      "entry_delta": 0.27,
-      "contracts": 1,
-      "signal_score": 0.755,
-      "position_size_pct": 0.5,
-      "high_water": 0.03424257589264867,
-      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
-      "current_premium": 4.0784,
-      "current_underlying": 338.4,
-      "pnl_pct": -25.3,
-      "pnl_dollars": -138.16,
-      "days_held": 14,
-      "dte_remaining": 28
-    },
-    {
       "ticker": "SMCI",
       "sector": "ai-semis",
       "entry_date": "2026-09-19",
@@ -37,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.06752697533709563,
       "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 21% (cheap); RS +11.1% vs SPY",
-      "current_premium": 1.2078,
-      "current_underlying": 41.78,
-      "pnl_pct": -33.27,
-      "pnl_dollars": -120.45,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 1.0268,
+      "current_underlying": 41.02,
+      "pnl_pct": -43.27,
+      "pnl_dollars": -156.64,
+      "days_held": 11,
+      "dte_remaining": 31
     },
     {
       "ticker": "ANET",
@@ -59,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.12233805340103482,
       "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +7.9% vs SPY",
-      "current_premium": 4.0337,
-      "current_underlying": 204.92,
-      "pnl_pct": -33.33,
-      "pnl_dollars": -201.63,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 3.48,
+      "current_underlying": 202.86,
+      "pnl_pct": -42.48,
+      "pnl_dollars": -257.0,
+      "days_held": 11,
+      "dte_remaining": 31
     },
     {
       "ticker": "SYM",
@@ -81,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.1302690319723902,
       "rationale": "EMA9/21 bullish; IV rank 0% (cheap); RS +7.0% vs SPY",
-      "current_premium": 0.7758,
-      "current_underlying": 42.0,
-      "pnl_pct": -40.78,
-      "pnl_dollars": -160.27,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 0.6626,
+      "current_underlying": 41.51,
+      "pnl_pct": -49.42,
+      "pnl_dollars": -194.21,
+      "days_held": 11,
+      "dte_remaining": 31
     },
     {
       "ticker": "NBIS",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.23780040351385773,
       "rationale": "EMA9/21 bullish; IV rank 4% (cheap); RS +5.0% vs SPY",
-      "current_premium": 7.5698,
-      "current_underlying": 231.88,
-      "pnl_pct": -21.07,
-      "pnl_dollars": -202.02,
-      "days_held": 6,
-      "dte_remaining": 36
+      "current_premium": 8.6125,
+      "current_underlying": 237.35,
+      "pnl_pct": -10.19,
+      "pnl_dollars": -97.75,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "TSM",
@@ -125,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.07304166156444171,
       "rationale": "EMA9/21 bullish; IV rank 15% (cheap); RS +5.3% vs SPY",
-      "current_premium": 7.2053,
-      "current_underlying": 452.88,
-      "pnl_pct": -19.31,
-      "pnl_dollars": -172.47,
-      "days_held": 6,
-      "dte_remaining": 36
+      "current_premium": 7.9474,
+      "current_underlying": 456.94,
+      "pnl_pct": -11.0,
+      "pnl_dollars": -98.26,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "MU",
@@ -147,12 +125,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.21592160558382612,
       "rationale": "EMA9/21 bullish; IV rank 23% (cheap); RS +6.7% vs SPY",
-      "current_premium": 29.6771,
-      "current_underlying": 1053.98,
-      "pnl_pct": -16.99,
-      "pnl_dollars": -607.29,
-      "days_held": 6,
-      "dte_remaining": 36
+      "current_premium": 30.6839,
+      "current_underlying": 1065.08,
+      "pnl_pct": -14.17,
+      "pnl_dollars": -506.61,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "PLTR",
@@ -168,7 +146,29 @@
       "signal_score": 0.755,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 24% (cheap)"
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap)",
+      "current_premium": 5.5275,
+      "current_underlying": 186.97,
+      "pnl_pct": -7.26,
+      "pnl_dollars": -43.25,
+      "days_held": 1,
+      "dte_remaining": 41
+    },
+    {
+      "ticker": "SMH",
+      "sector": "etf",
+      "entry_date": "2026-09-30",
+      "entry_underlying": 606.9,
+      "strike": 672,
+      "dte_at_entry": 42,
+      "entry_premium": 13.23,
+      "entry_iv": 0.4177,
+      "entry_delta": 0.27,
+      "contracts": 1,
+      "signal_score": 0.74,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +9.2% vs SPY"
     }
   ],
   "closed": [
@@ -1921,6 +1921,31 @@
       "exit_date": "2026-09-29",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 5.2319
+    },
+    {
+      "ticker": "AAPL",
+      "sector": "software",
+      "entry_date": "2026-09-15",
+      "entry_underlying": 332.27,
+      "strike": 358,
+      "dte_at_entry": 42,
+      "entry_premium": 5.46,
+      "entry_iv": 0.3087,
+      "entry_delta": 0.27,
+      "contracts": 1,
+      "signal_score": 0.755,
+      "position_size_pct": 0.5,
+      "high_water": 0.03424257589264867,
+      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +10.6% vs SPY",
+      "current_premium": 2.6883,
+      "current_underlying": 329.4,
+      "pnl_pct": -50.76,
+      "pnl_dollars": -277.17,
+      "days_held": 15,
+      "dte_remaining": 27,
+      "exit_date": "2026-09-30",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 2.6883
     }
   ]
 }
