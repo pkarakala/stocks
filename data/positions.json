@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.06752697533709563,
       "rationale": "EMA9/21 bullish; volume 1.6x; IV rank 21% (cheap); RS +11.1% vs SPY",
-      "current_premium": 1.4926,
-      "current_underlying": 43.69,
-      "pnl_pct": -17.54,
-      "pnl_dollars": -63.48,
-      "days_held": 14,
-      "dte_remaining": 28
+      "current_premium": 1.1363,
+      "current_underlying": 43.19,
+      "pnl_pct": -37.22,
+      "pnl_dollars": -134.74,
+      "days_held": 17,
+      "dte_remaining": 25
     },
     {
       "ticker": "NBIS",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.23780040351385773,
       "rationale": "EMA9/21 bullish; IV rank 4% (cheap); RS +5.0% vs SPY",
-      "current_premium": 9.0208,
-      "current_underlying": 242.81,
-      "pnl_pct": -5.93,
-      "pnl_dollars": -56.92,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 5.1184,
+      "current_underlying": 232.57,
+      "pnl_pct": -46.63,
+      "pnl_dollars": -447.16,
+      "days_held": 13,
+      "dte_remaining": 29
     },
     {
       "ticker": "MU",
@@ -59,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.21592160558382612,
       "rationale": "EMA9/21 bullish; IV rank 23% (cheap); RS +6.7% vs SPY",
-      "current_premium": 29.9198,
-      "current_underlying": 1074.89,
-      "pnl_pct": -16.31,
-      "pnl_dollars": -583.02,
-      "days_held": 10,
-      "dte_remaining": 32
+      "current_premium": 19.7153,
+      "current_underlying": 1063.96,
+      "pnl_pct": -44.85,
+      "pnl_dollars": -1603.47,
+      "days_held": 13,
+      "dte_remaining": 29
     },
     {
       "ticker": "SMH",
@@ -81,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.3727204002076211,
       "rationale": "EMA9/21 bullish; IV rank 24% (cheap); RS +9.2% vs SPY",
-      "current_premium": 18.1611,
-      "current_underlying": 630.6,
-      "pnl_pct": 37.27,
-      "pnl_dollars": 493.11,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 17.2579,
+      "current_underlying": 633.9,
+      "pnl_pct": 30.45,
+      "pnl_dollars": 402.79,
+      "days_held": 6,
+      "dte_remaining": 36
     },
     {
       "ticker": "FTNT",
@@ -103,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 29% (cheap); RS +10.1% vs SPY",
-      "current_premium": 3.9807,
-      "current_underlying": 180.95,
-      "pnl_pct": -18.93,
-      "pnl_dollars": -92.93,
-      "days_held": 2,
-      "dte_remaining": 40
+      "current_premium": 4.4411,
+      "current_underlying": 184.13,
+      "pnl_pct": -9.55,
+      "pnl_dollars": -46.89,
+      "days_held": 5,
+      "dte_remaining": 37
     },
     {
       "ticker": "CRWV",
@@ -124,7 +124,13 @@
       "signal_score": 0.815,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 5% (cheap); RS +6.2% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 5% (cheap); RS +6.2% vs SPY",
+      "current_premium": 2.7177,
+      "current_underlying": 87.39,
+      "pnl_pct": -30.49,
+      "pnl_dollars": -119.23,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "MRVL",
@@ -140,7 +146,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 19% (cheap); RS +30.6% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 19% (cheap); RS +30.6% vs SPY",
+      "current_premium": 6.9929,
+      "current_underlying": 271.25,
+      "pnl_pct": -27.0,
+      "pnl_dollars": -258.71,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "CLS",
@@ -156,7 +168,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +25.2% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 20% (cheap); RS +25.2% vs SPY",
+      "current_premium": 11.5053,
+      "current_underlying": 382.69,
+      "pnl_pct": -16.63,
+      "pnl_dollars": -229.47,
+      "days_held": 3,
+      "dte_remaining": 39
     }
   ],
   "closed": [
