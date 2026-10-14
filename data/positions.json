@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.39930593876540554,
       "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +5.2% vs SPY",
-      "current_premium": 10.5788,
-      "current_underlying": 541.15,
-      "pnl_pct": 39.93,
-      "pnl_dollars": 301.88,
-      "days_held": 6,
-      "dte_remaining": 36
+      "current_premium": 10.071,
+      "current_underlying": 543.45,
+      "pnl_pct": 33.21,
+      "pnl_dollars": 251.1,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "SNOW",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 16% (cheap); RS +10.0% vs SPY",
-      "current_premium": 6.7711,
-      "current_underlying": 360.37,
-      "pnl_pct": -25.43,
-      "pnl_dollars": -230.89,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 5.2912,
+      "current_underlying": 357.76,
+      "pnl_pct": -41.73,
+      "pnl_dollars": -378.88,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "TQQQ",
@@ -59,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 17% (cheap); RS +12.6% vs SPY",
-      "current_premium": 1.8388,
-      "current_underlying": 79.61,
-      "pnl_pct": -27.61,
-      "pnl_dollars": -70.12,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 1.5477,
+      "current_underlying": 78.81,
+      "pnl_pct": -39.07,
+      "pnl_dollars": -99.23,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "CRWD",
@@ -80,7 +80,13 @@
       "signal_score": 0.815,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 28% (cheap); RS +9.2% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 28% (cheap); RS +9.2% vs SPY",
+      "current_premium": 6.8387,
+      "current_underlying": 261.21,
+      "pnl_pct": -14.19,
+      "pnl_dollars": -113.13,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "AFRM",
@@ -96,7 +102,13 @@
       "signal_score": 0.8077,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 10% (cheap); RS +4.6% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 10% (cheap); RS +4.6% vs SPY",
+      "current_premium": 2.13,
+      "current_underlying": 77.89,
+      "pnl_pct": -14.46,
+      "pnl_dollars": -71.99,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "ANET",
@@ -112,7 +124,13 @@
       "signal_score": 0.785,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 5% (cheap); RS +9.8% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 5% (cheap); RS +9.8% vs SPY",
+      "current_premium": 2.8326,
+      "current_underlying": 204.52,
+      "pnl_pct": -30.06,
+      "pnl_dollars": -121.74,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "GEV",
@@ -127,8 +145,14 @@
       "contracts": 1,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 1% (cheap); RS +11.4% vs SPY"
+      "high_water": 0.046847274316993294,
+      "rationale": "EMA9/21 bullish; IV rank 1% (cheap); RS +11.4% vs SPY",
+      "current_premium": 20.6543,
+      "current_underlying": 1004.04,
+      "pnl_pct": 4.68,
+      "pnl_dollars": 92.43,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "DELL",
@@ -144,7 +168,13 @@
       "signal_score": 0.77,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 18% (cheap); RS +5.4% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 18% (cheap); RS +5.4% vs SPY",
+      "current_premium": 14.9201,
+      "current_underlying": 572.47,
+      "pnl_pct": -12.08,
+      "pnl_dollars": -204.99,
+      "days_held": 1,
+      "dte_remaining": 41
     }
   ],
   "closed": [
