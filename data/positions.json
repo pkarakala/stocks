@@ -1,28 +1,6 @@
 {
   "open": [
     {
-      "ticker": "AMZN",
-      "sector": "software",
-      "entry_date": "2026-10-23",
-      "entry_underlying": 262.37,
-      "strike": 286,
-      "dte_at_entry": 42,
-      "entry_premium": 4.95,
-      "entry_iv": 0.3566,
-      "entry_delta": 0.27,
-      "contracts": 1,
-      "signal_score": 0.7314,
-      "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +4.6% vs SPY",
-      "current_premium": 2.759,
-      "current_underlying": 243.79,
-      "pnl_pct": -44.26,
-      "pnl_dollars": -219.1,
-      "days_held": 7,
-      "dte_remaining": 35
-    },
-    {
       "ticker": "RTX",
       "sector": "defense",
       "entry_date": "2026-10-27",
@@ -37,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.12060281454784999,
       "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +5.3% vs SPY",
-      "current_premium": 3.8549,
-      "current_underlying": 199.4,
-      "pnl_pct": 12.06,
-      "pnl_dollars": 41.49,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 3.8471,
+      "current_underlying": 199.8,
+      "pnl_pct": 11.83,
+      "pnl_dollars": 40.71,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "NOC",
@@ -59,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; RS +11.8% vs SPY",
-      "current_premium": 8.8083,
-      "current_underlying": 562.36,
-      "pnl_pct": -32.61,
-      "pnl_dollars": -426.17,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 7.5372,
+      "current_underlying": 557.54,
+      "pnl_pct": -42.33,
+      "pnl_dollars": -553.28,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "CHYM",
@@ -81,12 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.008404510508326734,
       "rationale": "EMA9/21 bullish; IV rank 6% (cheap); RS +7.0% vs SPY",
-      "current_premium": 0.7149,
-      "current_underlying": 28.87,
-      "pnl_pct": 0.69,
-      "pnl_dollars": 3.43,
-      "days_held": 3,
-      "dte_remaining": 39
+      "current_premium": 0.5366,
+      "current_underlying": 27.95,
+      "pnl_pct": -24.42,
+      "pnl_dollars": -121.39,
+      "days_held": 4,
+      "dte_remaining": 38
     },
     {
       "ticker": "TSLA",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 12% (cheap); RS +14.8% vs SPY",
-      "current_premium": 8.9677,
-      "current_underlying": 403.3,
-      "pnl_pct": -15.56,
-      "pnl_dollars": -165.23,
-      "days_held": 2,
-      "dte_remaining": 40
+      "current_premium": 6.6641,
+      "current_underlying": 399.81,
+      "pnl_pct": -37.25,
+      "pnl_dollars": -395.59,
+      "days_held": 3,
+      "dte_remaining": 39
     },
     {
       "ticker": "ZS",
@@ -124,7 +102,13 @@
       "signal_score": 0.74,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +24.0% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +24.0% vs SPY",
+      "current_premium": 7.3862,
+      "current_underlying": 237.83,
+      "pnl_pct": -22.41,
+      "pnl_dollars": -213.38,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "RBRK",
@@ -140,7 +124,13 @@
       "signal_score": 0.74,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 25% (cheap); RS +15.1% vs SPY"
+      "rationale": "EMA9/21 bullish; IV rank 25% (cheap); RS +15.1% vs SPY",
+      "current_premium": 3.2871,
+      "current_underlying": 124.15,
+      "pnl_pct": -28.23,
+      "pnl_dollars": -129.29,
+      "days_held": 1,
+      "dte_remaining": 41
     },
     {
       "ticker": "QCOM",
@@ -156,7 +146,13 @@
       "signal_score": 0.68,
       "position_size_pct": 0.5,
       "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 16% (cheap)"
+      "rationale": "EMA9/21 bullish; IV rank 16% (cheap)",
+      "current_premium": 3.7213,
+      "current_underlying": 164.79,
+      "pnl_pct": -2.33,
+      "pnl_dollars": -8.87,
+      "days_held": 1,
+      "dte_remaining": 41
     }
   ],
   "closed": [
@@ -2934,6 +2930,31 @@
       "exit_date": "2026-10-30",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 2.3853
+    },
+    {
+      "ticker": "AMZN",
+      "sector": "software",
+      "entry_date": "2026-10-23",
+      "entry_underlying": 262.37,
+      "strike": 286,
+      "dte_at_entry": 42,
+      "entry_premium": 4.95,
+      "entry_iv": 0.3566,
+      "entry_delta": 0.27,
+      "contracts": 1,
+      "signal_score": 0.7314,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 22% (cheap); RS +4.6% vs SPY",
+      "current_premium": 2.1257,
+      "current_underlying": 240.35,
+      "pnl_pct": -57.06,
+      "pnl_dollars": -282.43,
+      "days_held": 8,
+      "dte_remaining": 34,
+      "exit_date": "2026-10-31",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 2.1257
     }
   ]
 }
