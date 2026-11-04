@@ -13,14 +13,14 @@
       "contracts": 1,
       "signal_score": 0.785,
       "position_size_pct": 0.5,
-      "high_water": 0.30693117907744777,
+      "high_water": 0.34885817488800186,
       "rationale": "EMA9/21 bullish; IV rank 27% (cheap); RS +5.3% vs SPY",
-      "current_premium": 4.4958,
-      "current_underlying": 202.79,
-      "pnl_pct": 30.69,
-      "pnl_dollars": 105.58,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 4.6401,
+      "current_underlying": 203.82,
+      "pnl_pct": 34.89,
+      "pnl_dollars": 120.01,
+      "days_held": 8,
+      "dte_remaining": 34
     },
     {
       "ticker": "CHYM",
@@ -37,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.008404510508326734,
       "rationale": "EMA9/21 bullish; IV rank 6% (cheap); RS +7.0% vs SPY",
-      "current_premium": 0.556,
-      "current_underlying": 28.53,
-      "pnl_pct": -21.69,
-      "pnl_dollars": -107.79,
-      "days_held": 7,
-      "dte_remaining": 35
+      "current_premium": 0.4389,
+      "current_underlying": 28.2,
+      "pnl_pct": -38.19,
+      "pnl_dollars": -189.78,
+      "days_held": 8,
+      "dte_remaining": 34
     },
     {
       "ticker": "TSLA",
@@ -59,34 +59,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 12% (cheap); RS +14.8% vs SPY",
-      "current_premium": 6.5266,
-      "current_underlying": 403.82,
-      "pnl_pct": -38.54,
-      "pnl_dollars": -409.34,
-      "days_held": 6,
-      "dte_remaining": 36
-    },
-    {
-      "ticker": "ZS",
-      "sector": "software",
-      "entry_date": "2026-10-30",
-      "entry_underlying": 247.82,
-      "strike": 303,
-      "dte_at_entry": 42,
-      "entry_premium": 9.52,
-      "entry_iv": 0.7777,
-      "entry_delta": 0.27,
-      "contracts": 1,
-      "signal_score": 0.74,
-      "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +24.0% vs SPY",
-      "current_premium": 5.1379,
-      "current_underlying": 223.79,
-      "pnl_pct": -46.03,
-      "pnl_dollars": -438.21,
-      "days_held": 4,
-      "dte_remaining": 38
+      "current_premium": 5.4601,
+      "current_underlying": 398.5,
+      "pnl_pct": -48.59,
+      "pnl_dollars": -515.99,
+      "days_held": 7,
+      "dte_remaining": 35
     },
     {
       "ticker": "QCOM",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; IV rank 16% (cheap)",
-      "current_premium": 2.8237,
-      "current_underlying": 162.08,
-      "pnl_pct": -25.89,
-      "pnl_dollars": -98.63,
-      "days_held": 4,
-      "dte_remaining": 38
+      "current_premium": 3.1832,
+      "current_underlying": 164.43,
+      "pnl_pct": -16.45,
+      "pnl_dollars": -62.68,
+      "days_held": 5,
+      "dte_remaining": 37
     }
   ],
   "closed": [
@@ -2961,6 +2939,31 @@
       "exit_date": "2026-11-03",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 2.0384
+    },
+    {
+      "ticker": "ZS",
+      "sector": "software",
+      "entry_date": "2026-10-30",
+      "entry_underlying": 247.82,
+      "strike": 303,
+      "dte_at_entry": 42,
+      "entry_premium": 9.52,
+      "entry_iv": 0.7777,
+      "entry_delta": 0.27,
+      "contracts": 1,
+      "signal_score": 0.74,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; IV rank 30% (cheap); RS +24.0% vs SPY",
+      "current_premium": 4.6425,
+      "current_underlying": 225.09,
+      "pnl_pct": -51.23,
+      "pnl_dollars": -487.75,
+      "days_held": 5,
+      "dte_remaining": 37,
+      "exit_date": "2026-11-04",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 4.6425
     }
   ]
 }
