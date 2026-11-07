@@ -1,28 +1,6 @@
 {
   "open": [
     {
-      "ticker": "AFRM",
-      "sector": "fintech",
-      "entry_date": "2026-11-05",
-      "entry_underlying": 75.59,
-      "strike": 92,
-      "dte_at_entry": 42,
-      "entry_premium": 2.99,
-      "entry_iv": 0.7781,
-      "entry_delta": 0.276,
-      "contracts": 1,
-      "signal_score": 0.7864,
-      "position_size_pct": 0.5,
-      "high_water": 0.0,
-      "rationale": "EMA9/21 bullish; volume 1.8x; IV rank 23% (cheap)",
-      "current_premium": 2.0124,
-      "current_underlying": 69.66,
-      "pnl_pct": -32.7,
-      "pnl_dollars": -97.76,
-      "days_held": 1,
-      "dte_remaining": 41
-    },
-    {
       "ticker": "IWM",
       "sector": "etf",
       "entry_date": "2026-11-05",
@@ -35,14 +13,14 @@
       "contracts": 1,
       "signal_score": 0.7573,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
+      "high_water": 0.035733075224559506,
       "rationale": "EMA9/21 bullish; IV rank 14% (cheap); RS +3.6% vs SPY",
-      "current_premium": 2.7645,
-      "current_underlying": 270.98,
-      "pnl_pct": -12.79,
-      "pnl_dollars": -40.55,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 3.2833,
+      "current_underlying": 273.67,
+      "pnl_pct": 3.57,
+      "pnl_dollars": 11.33,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "RTX",
@@ -59,12 +37,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; RS +11.4% vs SPY",
-      "current_premium": 2.7124,
-      "current_underlying": 191.88,
-      "pnl_pct": -29.18,
-      "pnl_dollars": -111.76,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 2.2439,
+      "current_underlying": 189.53,
+      "pnl_pct": -41.41,
+      "pnl_dollars": -158.61,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "TSLA",
@@ -79,14 +57,14 @@
       "contracts": 1,
       "signal_score": 0.7209,
       "position_size_pct": 0.5,
-      "high_water": 0.0,
+      "high_water": 0.21680039629516104,
       "rationale": "EMA9/21 bullish; IV rank 11% (cheap); RS +3.3% vs SPY",
-      "current_premium": 8.368,
-      "current_underlying": 343.69,
-      "pnl_pct": -15.73,
-      "pnl_dollars": -156.2,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 12.0828,
+      "current_underlying": 358.22,
+      "pnl_pct": 21.68,
+      "pnl_dollars": 215.28,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "AAPL",
@@ -103,12 +81,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 23% (cheap); RS +5.2% vs SPY",
-      "current_premium": 4.6496,
-      "current_underlying": 344.17,
-      "pnl_pct": -22.76,
-      "pnl_dollars": -137.04,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 4.0155,
+      "current_underlying": 342.37,
+      "pnl_pct": -33.3,
+      "pnl_dollars": -200.45,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "SOFI",
@@ -125,12 +103,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; RS +12.3% vs SPY",
-      "current_premium": 0.5241,
-      "current_underlying": 16.04,
-      "pnl_pct": -28.2,
-      "pnl_dollars": -123.53,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 0.5406,
+      "current_underlying": 16.21,
+      "pnl_pct": -25.95,
+      "pnl_dollars": -113.66,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "XYZ",
@@ -147,12 +125,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 3.5x; RS +16.5% vs SPY",
-      "current_premium": 2.5344,
-      "current_underlying": 84.04,
-      "pnl_pct": -23.43,
-      "pnl_dollars": -77.56,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 2.7407,
+      "current_underlying": 85.48,
+      "pnl_pct": -17.2,
+      "pnl_dollars": -56.93,
+      "days_held": 2,
+      "dte_remaining": 40
     },
     {
       "ticker": "MSFT",
@@ -169,12 +147,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.0,
       "rationale": "EMA9/21 bullish; volume 2.1x; RS +6.3% vs SPY",
-      "current_premium": 9.0529,
-      "current_underlying": 535.93,
-      "pnl_pct": -28.32,
-      "pnl_dollars": -357.71,
-      "days_held": 1,
-      "dte_remaining": 41
+      "current_premium": 7.2493,
+      "current_underlying": 530.61,
+      "pnl_pct": -42.6,
+      "pnl_dollars": -538.07,
+      "days_held": 2,
+      "dte_remaining": 40
     }
   ],
   "closed": [
@@ -3152,6 +3130,31 @@
       "exit_date": "2026-11-05",
       "exit_reason": "PROFIT_TARGET",
       "exit_premium": 5.6352
+    },
+    {
+      "ticker": "AFRM",
+      "sector": "fintech",
+      "entry_date": "2026-11-05",
+      "entry_underlying": 75.59,
+      "strike": 92,
+      "dte_at_entry": 42,
+      "entry_premium": 2.99,
+      "entry_iv": 0.7781,
+      "entry_delta": 0.276,
+      "contracts": 1,
+      "signal_score": 0.7864,
+      "position_size_pct": 0.5,
+      "high_water": 0.0,
+      "rationale": "EMA9/21 bullish; volume 1.8x; IV rank 23% (cheap)",
+      "current_premium": 1.4646,
+      "current_underlying": 68.11,
+      "pnl_pct": -51.02,
+      "pnl_dollars": -152.54,
+      "days_held": 2,
+      "dte_remaining": 40,
+      "exit_date": "2026-11-07",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 1.4646
     }
   ]
 }
