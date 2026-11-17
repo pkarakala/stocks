@@ -15,34 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.22774340632906218,
       "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 23% (cheap); RS +5.2% vs SPY",
-      "current_premium": 7.1521,
-      "current_underlying": 356.27,
-      "pnl_pct": 18.81,
-      "pnl_dollars": 113.21,
-      "days_held": 9,
-      "dte_remaining": 33
-    },
-    {
-      "ticker": "XYZ",
-      "sector": "fintech",
-      "entry_date": "2026-11-05",
-      "entry_underlying": 87.63,
-      "strike": 107,
-      "dte_at_entry": 42,
-      "entry_premium": 3.31,
-      "entry_iv": 0.7695,
-      "entry_delta": 0.269,
-      "contracts": 1,
-      "signal_score": 0.6975,
-      "position_size_pct": 0.5,
-      "high_water": 0.0038060507150484294,
-      "rationale": "EMA9/21 bullish; volume 3.5x; RS +16.5% vs SPY",
-      "current_premium": 2.1051,
-      "current_underlying": 84.58,
-      "pnl_pct": -36.4,
-      "pnl_dollars": -120.49,
-      "days_held": 9,
-      "dte_remaining": 33
+      "current_premium": 5.6559,
+      "current_underlying": 352.78,
+      "pnl_pct": -6.05,
+      "pnl_dollars": -36.41,
+      "days_held": 12,
+      "dte_remaining": 30
     }
   ],
   "closed": [
@@ -3170,6 +3148,31 @@
       "exit_date": "2026-11-13",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 0.2456
+    },
+    {
+      "ticker": "XYZ",
+      "sector": "fintech",
+      "entry_date": "2026-11-05",
+      "entry_underlying": 87.63,
+      "strike": 107,
+      "dte_at_entry": 42,
+      "entry_premium": 3.31,
+      "entry_iv": 0.7695,
+      "entry_delta": 0.269,
+      "contracts": 1,
+      "signal_score": 0.6975,
+      "position_size_pct": 0.5,
+      "high_water": 0.0038060507150484294,
+      "rationale": "EMA9/21 bullish; volume 3.5x; RS +16.5% vs SPY",
+      "current_premium": 1.5882,
+      "current_underlying": 82.96,
+      "pnl_pct": -52.02,
+      "pnl_dollars": -172.18,
+      "days_held": 12,
+      "dte_remaining": 30,
+      "exit_date": "2026-11-17",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 1.5882
     }
   ]
 }
