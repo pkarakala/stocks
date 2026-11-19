@@ -15,12 +15,12 @@
       "position_size_pct": 0.5,
       "high_water": 0.22774340632906218,
       "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 23% (cheap); RS +5.2% vs SPY",
-      "current_premium": 5.106,
-      "current_underlying": 351.91,
-      "pnl_pct": -15.18,
-      "pnl_dollars": -91.4,
-      "days_held": 13,
-      "dte_remaining": 29
+      "current_premium": 4.9075,
+      "current_underlying": 352.45,
+      "pnl_pct": -18.48,
+      "pnl_dollars": -111.25,
+      "days_held": 14,
+      "dte_remaining": 28
     }
   ],
   "closed": [
