@@ -1,28 +1,5 @@
 {
-  "open": [
-    {
-      "ticker": "AAPL",
-      "sector": "software",
-      "entry_date": "2026-11-05",
-      "entry_underlying": 349.51,
-      "strike": 379,
-      "dte_at_entry": 42,
-      "entry_premium": 6.02,
-      "entry_iv": 0.3302,
-      "entry_delta": 0.267,
-      "contracts": 1,
-      "signal_score": 0.7096,
-      "position_size_pct": 0.5,
-      "high_water": 0.22774340632906218,
-      "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 23% (cheap); RS +5.2% vs SPY",
-      "current_premium": 4.9075,
-      "current_underlying": 352.45,
-      "pnl_pct": -18.48,
-      "pnl_dollars": -111.25,
-      "days_held": 14,
-      "dte_remaining": 28
-    }
-  ],
+  "open": [],
   "closed": [
     {
       "ticker": "SNOW",
@@ -3173,6 +3150,31 @@
       "exit_date": "2026-11-17",
       "exit_reason": "STOP_LOSS",
       "exit_premium": 1.5882
+    },
+    {
+      "ticker": "AAPL",
+      "sector": "software",
+      "entry_date": "2026-11-05",
+      "entry_underlying": 349.51,
+      "strike": 379,
+      "dte_at_entry": 42,
+      "entry_premium": 6.02,
+      "entry_iv": 0.3302,
+      "entry_delta": 0.267,
+      "contracts": 1,
+      "signal_score": 0.7096,
+      "position_size_pct": 0.5,
+      "high_water": 0.22774340632906218,
+      "rationale": "EMA9/21 bullish; volume 1.9x; IV rank 23% (cheap); RS +5.2% vs SPY",
+      "current_premium": 2.7822,
+      "current_underlying": 342.56,
+      "pnl_pct": -53.78,
+      "pnl_dollars": -323.78,
+      "days_held": 16,
+      "dte_remaining": 26,
+      "exit_date": "2026-11-21",
+      "exit_reason": "STOP_LOSS",
+      "exit_premium": 2.7822
     }
   ]
 }
